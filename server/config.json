@@ -1,0 +1,4 @@
+﻿{
+    "connectionString": "mongodb://localhost/Inventory",
+    "secret": "Iresh Manoj Yogeesha aravinda"
+}
